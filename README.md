@@ -1,7 +1,7 @@
 # github-workshop
-Repo for 2020 Fall Github-Workshop
-11/1/2020
-Source: JumboCode
+Repo for 2020 Fall Github-Workshop   
+11/1/2020  
+Source: JumboCode  
 
 # Workshop Goals
 The goal of this workshop is to provide a baseline familiarity with using git + GitHub. At the end of this workshop, you should be able to 
