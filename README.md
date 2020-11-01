@@ -18,7 +18,7 @@ Essentially, the basic functionalities of a GitHub-based development pipeline.
 ## Setup:
 
 1. Clone this repo: 
-`git clone git@github.com:TEN/github-workshop.git`
+`git clone https://github.com/Textbook-Exchange-Network/github-workshop.git`
 
 2. Create a new branch. Label it with your name and the feature:
 `git branch [first name]-[last name]/workshop`
